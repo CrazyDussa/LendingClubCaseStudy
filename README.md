@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This is an Exploratory Data Analysis case study to give insights about the Data.
 
 
 ## Table of Contents
@@ -11,8 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+- We need to analyze the data from Urban Customers applications received at Lending Company and analyze the risk in approving the application.
+- 
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
